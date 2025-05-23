@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className='flex justify-around bg-purple-600 text-white py-2'>
         <div className="logo">
-            <a href="./"><span className='font-bold text-xl'>Taskify</span></a>
+            <a href={import.meta.env.BASE_URL}><span className='font-bold text-xl'>Taskify</span></a>
         </div>
         <ul className="flex gap-8">
             <li className='cursor-pointer hover:font-bold transition-all'>Home</li>
