@@ -42,4 +42,9 @@ A simple todo application built with React.
 
 ![Taskify - Screenshot](./screenshot.PNG)
 
+## 🌐 Live Demo
+
+[View on GitHub Pages](https://aakashsp30.github.io/taskify-todo-app)
+
+
 ---
